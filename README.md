@@ -10,7 +10,7 @@ Built using **Java** with the **Spring Boot** framework.
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/ai-incident-log-api.git
+git clone https://github.com/Ankur301203/ai-incident-log-api.git
 cd ai-incident-log-api
 ```
 
